@@ -1,3 +1,12 @@
+##React Employeee Data App,
+Gets data from Apis and sorts it appropriately.
+
+##Screen shots of app in use
+![](images/reactmain.PNG)
+![](images/reactemployees.PNG)
+![](images/reactprojects.PNG)
+![](images/reactteams.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
